@@ -1,0 +1,9 @@
+
+# BattleBA Remix #
+[bat]
+shuffle = [ 'ZachPayne_bat', 'Mykah_bat', 'Lau_bat' ]
+
+# VictoryFA Remix #
+[fan2]
+shuffle = [ 'AnotherSoundscape_fan', 'aluminum_fan', 'DjCutman_fan', 'DjCutman2_fan', 'Mykah_fan', 'HolderEphixa_fan', 'HolderEphixa2_fan', 'TheRunawayFive_fan', 'DjCutman3_fan', 'DjCutman4_fan', 'AnotherSoundscape2_fan', 'aluminum2_fan' ]
+

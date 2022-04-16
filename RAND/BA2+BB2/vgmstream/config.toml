@@ -1,0 +1,9 @@
+
+# BattleBA Remix #
+[bat]
+shuffle = [ 'ZachPayne_bat', 'Mykah_bat', 'Lau_bat' ]
+
+# BossBB Remix #
+[chu]
+shuffle = [ 'Standby_chu', 'CarboHydroM_chu', 'LevoLution_chu', 'zircon_chu' ]
+

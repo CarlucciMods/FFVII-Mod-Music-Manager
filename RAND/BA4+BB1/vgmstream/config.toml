@@ -1,0 +1,9 @@
+
+# BattleBA Arranged #
+[bat]
+shuffle = [ 'DLBPPro_bat', 'FinalFantim_bat', 'AlanBuono_bat', 'SheetMusicBoss_bat', 'ReduxChrisMarsh_bat', 'VincentMoretto_bat', 'DLBPOST_bat', 'Tsunamods_bat', 'VicenteBravo_bat', 'AlexMoukala_bat', 'DLBPFan_bat' ]
+
+# BossBB ALL #
+[chu]
+shuffle = [ 'Standby_chu', 'CarboHydroM_chu', 'AlexMoukala_chu', 'FuegoRedXIII_chu', 'DLPBPro_chu', 'ReduxChrisMarsh_chu', 'FuegoRedXIII2_chu', 'ToxicEternity_chu', 'Tsunamods_chu', 'EHWButler_chu', 'FinalFantim_chu', 'VicenteBravo_chu', 'DLPBOST_chu', 'DLPBFan_chu', 'TheRunawayFive_chu', 'Falkkone_chu', 'RichardBichler_chu', 'ArtificialFear_chu', 'LevoLution_chu', 'DanielTidwell_chu', 'zircon_chu', 'RichardBichlerDupe_chu', 'Ferdk_chu' ]
+

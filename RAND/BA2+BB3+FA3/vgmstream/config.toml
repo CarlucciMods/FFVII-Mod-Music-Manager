@@ -1,0 +1,13 @@
+
+# BattleBA Remix #
+[bat]
+shuffle = [ 'ZachPayne_bat', 'Mykah_bat', 'Lau_bat' ]
+
+# BossBB Metal #
+[chu]
+shuffle = [ 'DLPBPro_chu', 'ToxicEternity_chu', 'EHWButler_chu', 'Falkkone_chu', 'RichardBichler_chu', 'ArtificialFear_chu', 'DanielTidwell_chu', 'RichardBichlerDupe_chu', 'Ferdk_chu' ]
+
+# VictoryFA Metal #
+[fan2]
+shuffle = [ 'GirlzMelon_fan', 'GirlzMelon2_fan', 'FamilyJules7x_fan', 'FredrikHagglund_fan', 'Pillars_fan', 'DanielLambie_fan', 'Carlucci_fan' ]
+

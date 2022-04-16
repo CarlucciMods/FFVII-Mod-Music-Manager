@@ -1,0 +1,13 @@
+
+# BattleBA Metal #
+[bat]
+shuffle = [ 'RichardBichler_bat', 'FamilyJules7x_bat', 'GirlzMelon_bat', 'ToxicxEternity_bat', 'norg_bat', 'Fishy_bat', 'ArtificialFear_bat', 'DanielLambie_bat', 'DanielLambie2_bat', 'DanielTidwell_bat', 'Falkkone_bat', 'Ferdk_bat', 'Ferdk2_bat', 'GlitchxCity_bat', 'Huskybythegeek_bat', 'JonnyAtama_bat', 'Pillars_bat', 'Fishy2_bat' ]
+
+# BossBB Arranged #
+[chu]
+shuffle = [ 'AlexMoukala_chu', 'FuegoRedXIII_chu', 'ReduxChrisMarsh_chu', 'FuegoRedXIII2_chu', 'Tsunamods_chu', 'FinalFantim_chu', 'VicenteBravo_chu', 'DLPBOST_chu', 'DLPBFan_chu', 'TheRunawayFive_chu' ]
+
+# VictoryFA Arranged #
+[fan2]
+shuffle = [ 'FinalFantim_fan', 'ReduxChrisMarsh_fan', 'DLBPOST_fan', 'DLBPPro_fan', 'Tsunamods_fan', 'VicenteBravo_fan' ]
+

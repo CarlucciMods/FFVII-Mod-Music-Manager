@@ -1,0 +1,13 @@
+
+# BattleBA Metal #
+[bat]
+shuffle = [ 'RichardBichler_bat', 'FamilyJules7x_bat', 'GirlzMelon_bat', 'ToxicxEternity_bat', 'norg_bat', 'Fishy_bat', 'ArtificialFear_bat', 'DanielLambie_bat', 'DanielLambie2_bat', 'DanielTidwell_bat', 'Falkkone_bat', 'Ferdk_bat', 'Ferdk2_bat', 'GlitchxCity_bat', 'Huskybythegeek_bat', 'JonnyAtama_bat', 'Pillars_bat', 'Fishy2_bat' ]
+
+# BossBB Metal #
+[chu]
+shuffle = [ 'DLPBPro_chu', 'ToxicEternity_chu', 'EHWButler_chu', 'Falkkone_chu', 'RichardBichler_chu', 'ArtificialFear_chu', 'DanielTidwell_chu', 'RichardBichlerDupe_chu', 'Ferdk_chu' ]
+
+# VictoryFA ALL #
+[fan2]
+shuffle = [ 'FinalFantim_fan', 'ReduxChrisMarsh_fan', 'AnotherSoundscape_fan', 'FamilyJules7x_fan', 'aluminum_fan', 'DjCutman_fan', 'DjCutman2_fan', 'Mykah_fan', 'HolderEphixa_fan', 'HolderEphixa2_fan', 'DLBPOST_fan', 'DLBPPro_fan', 'FredrikHagglund_fan', 'TheRunawayFive_fan', 'Tsunamods_fan', 'VicenteBravo_fan', 'Pillars_fan', 'DanielLambie_fan', 'GirlzMelon_fan', 'GirlzMelon2_fan', 'DjCutman3_fan', 'DjCutman4_fan', 'Carlucci_fan', 'AnotherSoundscape2_fan', 'aluminum2_fan' ]
+
