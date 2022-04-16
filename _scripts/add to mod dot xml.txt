@@ -1,0 +1,133 @@
+<!--******************************Sample Music-Battle*****************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>bat</ID>
+	<Name>Those Who Fight/Let the Battles Begin!</Name>
+	<Description>Plays during all normal battles.</Description>
+	
+ <Option Value= "0"  Name="Artist Drop Down "                   PreviewFile="_images\TTF.png"/>
+ <Option Value= "00" Name="Alan Buono (Arranged) "	 PreviewFile="_images\Piano Collections.png"	 PreviewAudio="RAND\M\vgmstream\AlanBuono_bat.ogg"/>
+ <Option Value= "00" Name="Alex Moukala (Arranged) "	 PreviewFile="_images\Alex Moukala.png"	 PreviewAudio="RAND\M\vgmstream\AlexMoukala_bat.ogg"/>
+ <Option Value= "00" Name="Artificial Fear (Metal) "	 PreviewFile="_images\artifical_fear.png"	 PreviewAudio="RAND\M\vgmstream\ArtificialFear_bat.ogg"/>
+ <Option Value= "00" Name="Cashglom (Remix) "	 PreviewFile="_images\Cash.png"	 PreviewAudio="RAND\M\vgmstream\Cashglom_bat.ogg"/>
+ <Option Value= "00" Name="Daniel Lambie (Metal) "	 PreviewFile="_images\DL.png"	 PreviewAudio="RAND\M\vgmstream\DanielLambie_bat.ogg"/>
+ <Option Value= "00" Name="Daniel Lambie v2 (Metal) "	 PreviewFile="_images\DL.png"	 PreviewAudio="RAND\M\vgmstream\DanielLambie2_bat.ogg"/>
+ <Option Value= "00" Name="Daniel Tidwell (Metal) "	 PreviewFile="_images\Daniel Tidwell.png"	 PreviewAudio="RAND\M\vgmstream\DanielTidwell_bat.ogg"/>
+ <Option Value= "00" Name="DisposedHeroVGM (Metal) "	 PreviewFile="_images\DH.png"	 PreviewAudio="RAND\M\vgmstream\DisposedHero_bat.ogg"/>
+ <Option Value= "00" Name="DLPB Fan (Arranged) "	 PreviewFile="_images\Anxious Heart - Full Selection.png"	 PreviewAudio="RAND\M\vgmstream\DLPBFan_bat.ogg"/>
+ <Option Value= "00" Name="DLPB OST (Arranged) "	 PreviewFile="_images\Anxious Heart - OST.png"	 PreviewAudio="RAND\M\vgmstream\DLPBOST_bat.ogg"/>
+ <Option Value= "00" Name="DLPB PRO (Arranged) "	 PreviewFile="_images\Anxious Heart - Professional.png"	 PreviewAudio="RAND\M\vgmstream\DLPBPRO_bat.ogg"/>
+ <Option Value= "00" Name="Falkkone (Metal) "	 PreviewFile="_images\falk.png"	 PreviewAudio="RAND\M\vgmstream\Falkkone_bat.ogg"/>
+ <Option Value= "00" Name="FamilyJules7x (Metal) "	 PreviewFile="_images\Family jules.png"	 PreviewAudio="RAND\M\vgmstream\FamilyJules7x_bat.ogg"/>
+ <Option Value= "00" Name="Feɴɪx Aʀk Aɴɢeʟus (Arranged) "	 PreviewFile="_images\fenix.png"	 PreviewAudio="RAND\M\vgmstream\fenix_bat.ogg"/>
+ <Option Value= "00" Name="Ferdk (Metal) "	 PreviewFile="_images\fed.png"	 PreviewAudio="RAND\M\vgmstream\Ferdk_bat.ogg"/>
+ <Option Value= "00" Name="Ferdk v2 (Metal) "	 PreviewFile="_images\fed.png"	 PreviewAudio="RAND\M\vgmstream\Ferdk2_bat.ogg"/>
+ <Option Value= "00" Name="FinalFantim (Arranged) "	 PreviewFile="_images\FinalFantim.png"	 PreviewAudio="RAND\M\vgmstream\FinalFantim_bat.ogg"/>
+ <Option Value= "00" Name="Fishy (Metal) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\Fishy_bat.ogg"/>
+ <Option Value= "00" Name="Fishy v2 (Metal) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\Fishy_bat2.ogg"/>
+ <Option Value= "00" Name="Girlz Melon (Metal) "	 PreviewFile="_images\GirlzMelon.png"	 PreviewAudio="RAND\M\vgmstream\GirlzMelon_bat.ogg"/>
+ <Option Value= "00" Name="GlitchxCity (Metal) "	 PreviewFile="_images\GlitchxCity.png"	 PreviewAudio="RAND\M\vgmstream\GlitchxCity_bat.ogg"/>
+ <Option Value= "00" Name="Huskybythegeek (Metal) "	 PreviewFile="_images\Huskybythegeek.png"	 PreviewAudio="RAND\M\vgmstream\Huskybythegeek_bat.ogg"/>
+ <Option Value= "00" Name="Ivan H ft. Juan Medrano (Metal) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\Ivan_bat.ogg"/>
+ <Option Value= "00" Name="JonnyAtama GaMetal (Metal) "	 PreviewFile="_images\JonnyAtama GaMetal.png"	 PreviewAudio="RAND\M\vgmstream\JonnyAtama_bat.ogg"/>
+ <Option Value= "00" Name="Lau (Remix) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\Lau_bat.ogg"/>
+ <Option Value= "00" Name="Mykah (Remix) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\Mykah_bat.ogg"/>
+ <Option Value= "00" Name="norg, SnappleMan (Remix) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\norg_bat.ogg"/>
+ <Option Value= "00" Name="PillarsInTheSky (Metal) "	 PreviewFile="_images\pill.png"	 PreviewAudio="RAND\M\vgmstream\PillarsInTheSky_bat.ogg"/>
+ <Option Value= "00" Name="Qhimm Commnity (Arranged) "	 PreviewFile="_images\QCM2.png"	 PreviewAudio="RAND\M\vgmstream\qmc_bat.ogg"/>
+ <Option Value= "00" Name="Redux Chris Marsh (Arranged) "	 PreviewFile="_images\Chris Marsh.png"	 PreviewAudio="RAND\M\vgmstream\ReduxChrisMarsh_bat.ogg"/>
+ <Option Value= "00" Name="RichaadEB (Metal) "	 PreviewFile="_images\RichaadEB.png"	 PreviewAudio="RAND\M\vgmstream\RichaadEB_bat.ogg"/>
+ <Option Value= "00" Name="Rifti Beats (Remix) "	 PreviewFile="_images\RiftiBeats.png"	 PreviewAudio="RAND\M\vgmstream\RiftiBeats_bat.ogg"/>
+ <Option Value= "00" Name="Sheet Music Boss (Arranged) "	 PreviewFile="_images\Sheet Music Boss.png"	 PreviewAudio="RAND\M\vgmstream\SheetMusicBoss_bat.ogg"/>
+ <Option Value= "00" Name="Slayer Santiago (Arranged) "	 PreviewFile="_images\SS.png"	 PreviewAudio="RAND\M\vgmstream\slayer_bat.ogg"/>
+ <Option Value= "00" Name="Smooth Groove(Arranged) "	 PreviewFile="_images\SG.png"	 PreviewAudio="RAND\M\vgmstream\smooth_bat.ogg"/>
+ <Option Value= "00" Name="The Reunion PSX OST (Arranged) "	 PreviewFile="_images\PSX.png"	 PreviewAudio="RAND\M\vgmstream\psx_bat.ogg"/>
+ <Option Value= "00" Name="ToxicxEternity (Metal) "	 PreviewFile="_images\ToxicxEternity.png"	 PreviewAudio="RAND\M\vgmstream\ToxicxEternity_bat.ogg"/>
+ <Option Value= "00" Name="Tsunamods Soundtrack (Arranged) "	 PreviewFile="_images\Tsuna_arranged.png"	 PreviewAudio="RAND\M\vgmstream\Tsunamods_bat.ogg"/>
+ <Option Value= "00" Name="Vicente Bravo (Arranged) "	 PreviewFile="_images\VB.png"	 PreviewAudio="RAND\M\vgmstream\VicenteBravo_bat.ogg"/>
+ <Option Value= "00" Name="Vincent Moretto (Arranged) "	 PreviewFile="_images\Vincent Moretto.png"	 PreviewAudio="RAND\M\vgmstream\VincentMoretto_bat.ogg"/>
+ <Option Value= "00" Name="Zach Payne (Remix) "	 PreviewFile="_images\Zach Payne.png"	 PreviewAudio="RAND\M\vgmstream\ZachPayne_bat.ogg"/>
+
+ 
+</ConfigOption>
+
+<!--******************************Sample Music-Boss Battle*****************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>chu</ID>
+	<Name>Those Who Fight Further/Fight On !</Name>
+	<Description>Plays during random boss battles.</Description>
+	
+ <Option Value= "0"  Name="Artist Drop Down "             PreviewFile="_images\TTFF.png"/>
+ <Option Value= "00" Name="Alex Moukala (Arranged) "	 PreviewFile="_images\Alex Moukala.png"	PreviewAudio="RAND\M\vgmstream\AlexMoukala_chu.ogg"/>
+ <Option Value= "00" Name="Artificial Fear (Metal) "	 PreviewFile="_images\artifical_fear.png"	PreviewAudio="RAND\M\vgmstream\ArtificialFear_chu.ogg"/>
+ <Option Value= "00" Name="CarboHydroM (Metal) "	 PreviewFile="_images\OCRemix.png"	PreviewAudio="RAND\M\vgmstream\CarboHydroM_chu.ogg"/>
+ <Option Value= "00" Name="Daniel Tidwell (Metal) "	 PreviewFile="_images\Daniel Tidwell.png"	PreviewAudio="RAND\M\vgmstream\DanielTidwell_chu.ogg"/>
+ <Option Value= "00" Name="DLPB Fan (Arranged) "	 PreviewFile="_images\Anxious Heart - Full Selection.png"	PreviewAudio="RAND\M\vgmstream\DLPBFan_chu.ogg"/>
+ <Option Value= "00" Name="DLPB OST (Arranged) "	 PreviewFile="_images\Anxious Heart - OST.png"	PreviewAudio="RAND\M\vgmstream\DLPBFan_chu.ogg"/>
+ <Option Value= "00" Name="DLPB PRO (Metal) "	 PreviewFile="_images\Anxious Heart - Professional.png"	PreviewAudio="RAND\M\vgmstream\DLPBPRO_chu.ogg"/>
+ <Option Value= "00" Name="EHWButler (Metal) "	 PreviewFile="_images\OCRemix.png"	PreviewAudio="RAND\M\vgmstream\EHWButler_chu.ogg"/>
+ <Option Value= "00" Name="Falkkone (Metal) "	 PreviewFile="_images\falk.png"	PreviewAudio="RAND\M\vgmstream\Falkkone_chu.ogg"/>
+ <Option Value= "00" Name="FamilyJules7x (Metal) "	 PreviewFile="_images\Family jules.png"	 PreviewAudio="RAND\M\vgmstream\FamilyJulez7x_chu.ogg"/>
+ <Option Value= "00" Name="Ferdk (Metal) "	 PreviewFile="_images\fed.png"	PreviewAudio="RAND\M\vgmstream\Ferdk_chu.ogg"/>
+ <Option Value= "00" Name="FF Record Keeper (Remix) "	 PreviewFile="_images\FFRK.png"	 PreviewAudio="RAND\M\vgmstream\FFRK_chu.ogg"/>
+ <Option Value= "00" Name="FinalFantim (Arranged) "	 PreviewFile="_images\FinalFantim.png"	PreviewAudio="RAND\M\vgmstream\FinalFantim_chu.ogg"/>
+ <Option Value= "00" Name="FuegoRedXIII (Arranged) "	 PreviewFile="_images\FuegoRedXIII.png"	PreviewAudio="RAND\M\vgmstream\FuegoRedXIII_chu.ogg"/>
+ <Option Value= "00" Name="FuegoRedXIII v2 (Arranged) "	 PreviewFile="_images\FuegoRedXIII.png"	PreviewAudio="RAND\M\vgmstream\FuegoRedXIII2_chu.ogg"/>
+ <Option Value= "00" Name="Levo Lution (Remix) "	 PreviewFile="_images\OCRemix.png"	PreviewAudio="RAND\M\vgmstream\LevoLution_chu.ogg"/>
+ <Option Value= "00" Name="Qhimm Commnity (Arranged) "	 PreviewFile="_images\QCM2.png"	 PreviewAudio="RAND\M\vgmstream\qmc_chu.ogg"/>
+ <Option Value= "00" Name="Redux Chris Marsh (Arranged) "	 PreviewFile="_images\Chris Marsh.png"	PreviewAudio="RAND\M\vgmstream\ReduxChrisMarsh_chu.ogg"/>
+ <Option Value= "00" Name="Richard Bichler (Metal) "	 PreviewFile="_images\RichaadEB.png"	PreviewAudio="RAND\M\vgmstream\RichardBichler_chu.ogg"/>
+ <Option Value= "00" Name="Rifti Beats (Remix) "	 PreviewFile="_images\RiftiBeats.png"	 PreviewAudio="RAND\M\vgmstream\RiftiBeats_chu.ogg"/>
+ <Option Value= "00" Name="Standby (Remix) "	 PreviewFile="_images\OCRemix.png"	PreviewAudio="RAND\M\vgmstream\Standby_chu.ogg"/>
+ <Option Value= "00" Name="The Reunion PSX OST (Arranged) "	 PreviewFile="_images\PSX.png"	 PreviewAudio="RAND\M\vgmstream\psx_chu.ogg"/>
+ <Option Value= "00" Name="The Runaway Five (Arranged) "	 PreviewFile="_images\OCRemix.png"	PreviewAudio="RAND\M\vgmstream\TheRunawayFive_chu.ogg"/>
+ <Option Value= "00" Name="Toxic Eternity (Metal) "	 PreviewFile="_images\ToxicxEternity.png"	PreviewAudio="RAND\M\vgmstream\ToxicEternity_chu.ogg"/>
+ <Option Value= "00" Name="Tsunamods (Arranged) "	 PreviewFile="_images\Tsuna_arranged.png"	PreviewAudio="RAND\M\vgmstream\Tsunamods_chu.ogg"/>
+ <Option Value= "00" Name="Vicente Bravo (Arranged) "	 PreviewFile="_images\VB.png"	PreviewAudio="RAND\M\vgmstream\VicenteBravo_chu.ogg"/>
+ <Option Value= "00" Name="Zircon (Remix) "	 PreviewFile="_images\OCRemix.png"	PreviewAudio="RAND\M\vgmstream\Zircon_chu.ogg"/>
+
+</ConfigOption>    
+
+<!--******************************Sample Music-Victory*****************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>fan2</ID>
+	<Name>Victory Fanfare</Name>
+	<Description>Plays after winning a battle.</Description>
+	
+ <Option Value= "0"  Name="Artist Drop Down "                          PreviewFile="_images\VF.png"/>
+ <Option Value= "00" Name="Aluminum (Remix) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\Aluminum_fan.ogg"/>
+ <Option Value= "00" Name="Aluminum v2(Remix) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\Aluminum2_fan.ogg"/>
+ <Option Value= "00" Name="Another Soundscape (Remix) "	 PreviewFile="_images\VOTL.gif "	 PreviewAudio="RAND\M\vgmstream\AnotherSoundscape_fan.ogg"/>
+ <Option Value= "00" Name="Another Soundscape v2(Remix) "	 PreviewFile="_images\VOTL.gif "	 PreviewAudio="RAND\M\vgmstream\AnotherSoundscape2_fan.ogg"/>
+ <Option Value= "00" Name="Carlucci Mods (Metal) "	 PreviewFile="_images\Carlucci_Mods_icon.png"	 PreviewAudio="RAND\M\vgmstream\Carlucci_fan.ogg"/>
+ <Option Value= "00" Name="Daniel Lambie w/ FFVI Flashback (Metal) "	 PreviewFile="_images\DL.png"	 PreviewAudio="RAND\M\vgmstream\DanielLambie_fan.ogg"/>
+ <Option Value= "00" Name="Dj Cutman (Remix) "	 PreviewFile="_images\Gamechops - Dj Cutman.png"	 PreviewAudio="RAND\M\vgmstream\DjCutman_fan.ogg"/>
+ <Option Value= "00" Name="Dj v2 Cutman (Remix) "	 PreviewFile="_images\Gamechops - Dj Cutman.png"	 PreviewAudio="RAND\M\vgmstream\DjCutman2_fan.ogg"/>
+ <Option Value= "00" Name="Dj v3 Cutman (Remix) "	 PreviewFile="_images\Gamechops - Dj Cutman.png"	 PreviewAudio="RAND\M\vgmstream\DjCutman3_fan.ogg"/>
+ <Option Value= "00" Name="Dj v4 Cutman (Remix) "	 PreviewFile="_images\Gamechops - Dj Cutman.png"	 PreviewAudio="RAND\M\vgmstream\DjCutman4_fan.ogg"/>
+ <Option Value= "00" Name="DLPB OST Arranged) "	 PreviewFile="_images\Anxious Heart - OST.png"	 PreviewAudio="RAND\M\vgmstream\DLPBOST_fan.ogg"/>
+ <Option Value= "00" Name="DLPB PRO (Arranged) "	 PreviewFile="_images\Anxious Heart - Professional.png"	 PreviewAudio="RAND\M\vgmstream\DLPBPRO_fan.ogg"/>
+ <Option Value= "00" Name="FamilyJules7x (Metal) "	 PreviewFile="_images\Family jules.png"	 PreviewAudio="RAND\M\vgmstream\FamilyJules7x_fan.ogg"/>
+ <Option Value= "00" Name="FinalFantim (Arranged) "	 PreviewFile="_images\FinalFantim.png"	 PreviewAudio="RAND\M\vgmstream\FinalFantim_fan.ogg"/>
+ <Option Value= "00" Name="Fredrik Hagglund (Remix) "	 PreviewFile="_images\FH.png"	 PreviewAudio="RAND\M\vgmstream\FredrikHagglund_fan.ogg"/>
+ <Option Value= "00" Name="Girlz Melon (Metal) "	 PreviewFile="_images\GirlzMelon.png"	 PreviewAudio="RAND\M\vgmstream\GirlzMelon_fan.ogg"/>
+ <Option Value= "00" Name="Girlz Melon v2 (Metal)) "	 PreviewFile="_images\GirlzMelon.png"	 PreviewAudio="RAND\M\vgmstream\GirlzMelon2_fan.ogg"/>
+ <Option Value= "00" Name="HolderN Ephixa (Remix) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\HolderEphixa_fan.ogg"/>
+ <Option Value= "00" Name="HolderN Ephixa v2 (Remix) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\HolderEphixa2_fan.ogg"/>
+ <Option Value= "00" Name="Leitbur w/ FFVI Flashback (Remix) "	 PreviewFile="_images\Leitbur.png"	 PreviewAudio="RAND\M\vgmstream\Leitbur(ff6TB)_fan.ogg"/>
+ <Option Value= "00" Name="Mykah (Remix) "	 PreviewFile="_images\Huskybythegeek.png"	 PreviewAudio="RAND\M\vgmstream\Mykah_fan.ogg"/>
+ <Option Value= "00" Name="PillarsInTheSky (Metal) "	 PreviewFile="_images\pill.png"	 PreviewAudio="RAND\M\vgmstream\PillarsInTheSky_fan.ogg"/>
+ <Option Value= "00" Name="Qhimm Commnity (Arranged) "	 PreviewFile="_images\QCM2.png"	 PreviewAudio="RAND\M\vgmstream\qmc_fan.ogg"/>
+ <Option Value= "00" Name="Redux Chris Marsh (Arranged) "	 PreviewFile="_images\Chris Marsh.png"	 PreviewAudio="RAND\M\vgmstream\ReduxChrisMarsh_fan.ogg"/>
+ <Option Value= "00" Name="The Reunion PSX OST (Arranged) "	 PreviewFile="_images\PSX.png"	 PreviewAudio="RAND\M\vgmstream\psx_fan.ogg"/>
+ <Option Value= "00" Name="The Runaway Five (Arranged) "	 PreviewFile="_images\OCRemix.png"	 PreviewAudio="RAND\M\vgmstream\The Runaway Five_fan.ogg"/>
+ <Option Value= "00" Name="Tsunamods Soundtrack (Arranged) "	 PreviewFile="_images\Tsuna_arranged.png"	 PreviewAudio="RAND\M\vgmstream\Tsunamods_fan.ogg"/>
+ <Option Value= "00" Name="Vicente Bravo (Arranged) "	 PreviewFile="_images\VB.png"	 PreviewAudio="RAND\M\vgmstream\VicenteBravo_fan.ogg"/>
+
+</ConfigOption>    
+___________________________________________________________________________
