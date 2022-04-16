@@ -1,0 +1,1438 @@
+﻿<?xml version="1.0"?>
+<ModInfo>
+	<ID>4de35168-e793-49ac-8c0d-37e9ee6a5f1a</ID>
+	<Name>CAMS 3: Randomizer</Name>
+	<Category>Media</Category>
+	<Author>Carlucci, Ace</Author>
+	<Version>3.573</Version>
+
+	<Description>Stable release ! This mod will allow you to shuffle ALL or Selected Battle Encounter, Boss Battle Encounter and Battle Victory Fanfare music via from a pre-selected list of self-contained tracks drawn from the Main Carlucci Ace Music Selector mod. This mod must be placed on top of all music/media mods. Hudge Thanks to bonez, cmh175 for help with code solutions. Big thanks to Software Dev Martin Barker for animation optimizations.  To everyone else I may have missed who helped. Artist permissions can be found on the carlucci ace mods discord (see link). The Main Artist list can be found within the root folder of this mod. </Description>
+<ReleaseNotes>+++ Possible future update with bombing mission track for Guard Scorpion Boss. +++
+
+Updates Upcoming
+3.575 - New Artists Additions
+
+
+Updates:
+3.573 Boss Battle Edits: Updated Looping and Increased/normalized track volume to -1.0 db.
+3.572 Added Complete Artist List.ods inside cams-r root folder.
+3.571 Description Update.
+3.57 Updated Mod with Animated Logo.
+3.56 Victory Music Edits: Updated Looping and Increased/normalized track volume to -1.0 db.
+3.55 New artwork for Selection UI.
+3.54 Changed OST Style Genre to Arranged Genre.
+3.53 Battle Music Edits: Updated Looping and Increased/normalized track volume to -1.0 db.
+3.52 Fixed: Issue #002 Vincent Bravo and Girlz Melon don't preview in victory fanfare.
+3.52 Removed: Issue #003 Mattias Haggstrom Gerdt preview of thoses who fight further the button changes but no preview audio.
+This mod is in Beta while being tested. XML code changed to a Variable System Setup.
+
+You can find the Black version of this mod on my private catalog >
+iros://Url/http$chris.7thheaven.rocks/carlucci/CarlucciAceCatalogBlack.xml</ReleaseNotes>
+
+	<ReleaseDate>2022-02-05</ReleaseDate>
+	<Link>https://discord.gg/atqPuQ2t</Link>
+	<PreviewFile>icon_camsR.gif</PreviewFile>
+
+
+<ModFolder Folder="M" />
+
+
+<!--*******************BA=Battle, BB=Boss Battle, FA=Victory_Fanfare*******************-->
+<!--0=Off, 1=ALL Genre's, 2=DjMixes, 3=Metal, 4=Arranged-->
+
+<ModFolder Folder="M" />
+
+<ModFolder Folder="BA1+BB1+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB1+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB1+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB1+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB1+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB2+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB2+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB2+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB2+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB3+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB3+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB3+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB3+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB4+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB4+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB4+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BB4+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 0</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<!--*******************BA=Battle, BB=Boss Battle, FA=Victory_Fanfare*******************-->
+<!--0=Off, 1=ALL Genre's, 2=DjMixes, 3=Metal, 4=Arranged-->
+
+<ModFolder Folder="BA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB1+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB1+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB1+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB2+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB2+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB2+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB2+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB3+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB3+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB3+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB3+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB4+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB4+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB4+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA1+BB4+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 1</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<!--*******************BA=Battle, BB=Boss Battle, FA=Victory_Fanfare*******************-->
+<!--0=Off, 1=ALL Genre's, 2=DjMixes, 3=Metal, 4=Arranged-->
+
+<ModFolder Folder="BA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB1+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB1+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB1+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB1+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB2+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB2+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB2+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB2+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB3+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB3+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB3+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB3+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB4+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB4+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA2+BB4+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 2</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<!--*******************BA=Battle, BB=Boss Battle, FA=Victory_Fanfare*******************-->
+<!--0=Off, 1=ALL Genre's, 2=DjMixes, 3=Metal, 4=Arranged-->
+
+<ModFolder Folder="BA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+FA3" >
+	     <ActiveWhen>
+		         <And>
+			             <Option>BA = 3</Option>
+			             <Option>BB = 0</Option>
+			             <Option>FA = 3</Option>
+		         </And>
+	     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB1+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB1+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB1+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB1+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB2+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB2+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB2+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB2+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB3+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB3+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB3+FA3" >
+	     <ActiveWhen>
+		         <And>
+			             <Option>BA = 3</Option>
+			             <Option>BB = 3</Option>
+			             <Option>FA = 3</Option>
+		         </And>
+	     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB3+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB4+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB4+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB4+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA3+BB4+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 3</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+<!--*******************BA=Battle, BB=Boss Battle, FA=Victory_Fanfare*******************-->
+<!--0=Off, 1=ALL Genre's, 2=DjMixes, 3=Metal, 4=Arranged-->
+
+<ModFolder Folder="BA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 0</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB1+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB1+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB1+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB1+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 1</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB2+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB2+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB2+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB2+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 2</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB3+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB3+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB3+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB3+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 3</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 0</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB4+FA1" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 1</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB4+FA2" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 2</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB4+FA3" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 3</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<ModFolder Folder="BA4+BB4+FA4" >
+     <ActiveWhen>
+         <And>
+             <Option>BA = 4</Option>
+             <Option>BB = 4</Option>
+             <Option>FA = 4</Option>
+         </And>
+     </ActiveWhen>
+</ModFolder>
+
+<!--*******************BA=Battle, BB=Boss-Battle, FA=Victory_Fanfare*******************-->
+<!--***************0=Off, 1=ALL Genre's, 2=DjMixes, 3=Metal, 4=Arranged***********-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>BA</ID>
+	<Name>Those Who Fight/Let the Battles Begin!</Name>
+	<Description>Plays during all normal battles.</Description>
+	<Option Value="0" Name="Off" PreviewFile="_images\off3.png"/>
+	<Option Value="1" Name="Shuffle-All-Tracks" PreviewFile="_images\battle_all2.png"/>
+	<Option Value="2" Name="Shuffle-Remixes-Tracks" PreviewFile="_images\battle_djmix2.png"/>
+	<Option Value="3" Name="Shuffle-Metal-Tracks" PreviewFile="_images\battle_metal2.png"/>
+	<Option Value="4" Name="Shuffle-Arranged-Tracks" PreviewFile="_images\battle_arranged2.png"/>
+</ConfigOption>
+<!--***********************************************************************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>BB</ID>
+	<Name>Those Who Fight Further/Fight On !</Name>
+	<Description>Plays during random boss battles.</Description>
+	<Option Value="0" Name="Off" PreviewFile="_images\off3.png"/>
+	<Option Value="1" Name="Shuffle-All-Tracks" PreviewFile="_images\bossbattle_all2.png"/>
+	<Option Value="2" Name="Shuffle-Remixes-Tracks" PreviewFile="_images\bossbattle_djmix2.png"/>
+	<Option Value="3" Name="Shuffle-Metal-Tracks" PreviewFile="_images\bossbattle_metal2.png"/>
+	<Option Value="4" Name="Shuffle-Arranged-Tracks" PreviewFile="_images\bossbattle_arranged2.png"/>
+</ConfigOption>
+<!--***********************************************************************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>FA</ID>
+	<Name>Victory Fanfare</Name>
+	<Description>Plays after winning a battle.</Description>
+	<Option Value="0" Name="Off" PreviewFile="_images\off3.png"/>
+	<Option Value="1" Name="Shuffle-All-Tracks" PreviewFile="_images\victory_all2.png"/>
+	<Option Value="2" Name="Shuffle-Remixes-Tracks" PreviewFile="_images\victory_djmix2.png"/>
+	<Option Value="3" Name="Shuffle-Metal-Tracks" PreviewFile="_images\victory_metal2.png"/>
+	<Option Value="4" Name="Shuffle-Arranged-Tracks" PreviewFile="_images\victory_arranged2.png"/>
+</ConfigOption>
+<!--******************************Sample Music-Battle*****************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>1twf</ID>
+	<Name>Sample tracks from Those Who Fight/Let the Battles Begin!</Name>
+	<Description>Plays during all normal battles.</Description>
+	
+ <Option Value="0"  Name="Artist Drop Down"                   PreviewFile="_covers\TTF.png"/>
+ <Option Value="1"  Name="Alan Buono (Arranged)"              PreviewFile="_covers\Piano Collections.png"              PreviewAudio="M\vgmstream\bat17.ogg"/>
+ <Option Value="2"  Name="Alex Moukala (Arranged)"            PreviewFile="_covers\Alex Moukala.png"                   PreviewAudio="M\vgmstream\bat28.ogg"/>
+ <Option Value="3"  Name="Artificial Fear (Metal)"            PreviewFile="_covers\artifical_fear.png"                 PreviewAudio="M\vgmstream\bat13.ogg"/>
+ <Option Value="4"  Name="Chris Marsh (Arranged)"             PreviewFile="_covers\Chris Marsh.png"                    PreviewAudio="M\vgmstream\bat20.ogg"/>
+ <Option Value="5"  Name="Daniel Lambie (Metal)"              PreviewFile="_covers\DL.png"                             PreviewAudio="M\vgmstream\bat1.ogg"/>
+ <Option Value="6"  Name="Daniel Lambie v2 (Metal)"           PreviewFile="_covers\DL.png"                             PreviewAudio="M\vgmstream\bat2.ogg"/>
+ <Option Value="7"  Name="Daniel Tidwell (Metal)"             PreviewFile="_covers\Daniel Tidwell.png"                 PreviewAudio="M\vgmstream\bat4.ogg"/>
+ <Option Value="8"  Name="DLPB Fan (Arranged)"                PreviewFile="_covers\Anxious Heart - Full Selection.png" PreviewAudio="M\vgmstream\bat20.ogg"/>
+ <Option Value="9"  Name="DLPB OST (Arranged)"                PreviewFile="_covers\Anxious Heart - OST.png"            PreviewAudio="M\vgmstream\bat24.ogg"/>
+ <Option Value="10" Name="DLPB PRO (Arranged)"                PreviewFile="_covers\Anxious Heart - Professional.png"   PreviewAudio="M\vgmstream\bat31.ogg"/>
+ <Option Value="11" Name="Falkkone (Metal)"                   PreviewFile="_covers\falk.png"                           PreviewAudio="M\vgmstream\bat5.ogg"/>
+ <Option Value="12" Name="FamilyJules7x (Metal)"              PreviewFile="_covers\Family jules.png"                   PreviewAudio="M\vgmstream\bat32.ogg"/>
+ <Option Value="13" Name="Ferdk (Metal)"                      PreviewFile="_covers\fed.png"                            PreviewAudio="M\vgmstream\bat7.ogg"/>
+ <Option Value="14" Name="Ferdk v2 (Metal)"                   PreviewFile="_covers\fed.png"                            PreviewAudio="M\vgmstream\bat6.ogg"/>
+ <Option Value="15" Name="FinalFantim (Arranged)"             PreviewFile="_covers\FinalFantim.png"                    PreviewAudio="M\vgmstream\bat3.ogg"/>
+ <Option Value="16" Name="Fishy (Metal)"                      PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\bat14.ogg"/>
+ <Option Value="17" Name="Fishy v2 (Metal)"                   PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\bat15.ogg"/>
+ <Option Value="18" Name="Girlz Melon (Metal)"                PreviewFile="_covers\Girlz_Melon.png"                    PreviewAudio="M\vgmstream\bat29.ogg"/>
+ <Option Value="19" Name="GlitchxCity (Metal)"                PreviewFile="_covers\GlitchxCity.png"                    PreviewAudio="M\vgmstream\bat8.ogg"/>
+ <Option Value="20" Name="Huskybythegeek (Metal)"             PreviewFile="_covers\Huskybythegeek.png"                 PreviewAudio="M\vgmstream\bat9.ogg"/>
+ <Option Value="21" Name="JonnyAtama GaMetal (Metal)"         PreviewFile="_covers\JonnyAtama GaMetal.png"             PreviewAudio="M\vgmstream\bat11.ogg"/>
+ <Option Value="22" Name="Lau (Remix)"                        PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\bat10.ogg"/>
+ <Option Value="23" Name="Mykah (Remix)"                      PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\bat27.ogg"/>
+ <Option Value="24" Name="norg, SnappleMan (Remix)"           PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\bat16.ogg"/>
+ <Option Value="25" Name="PillarsInTheSky (Metal)"            PreviewFile="_covers\pill.png"                           PreviewAudio="M\vgmstream\bat12.ogg"/>
+ <Option Value="26" Name="RichaadEB (Metal)"                  PreviewFile="_covers\RichaadEB.png"                      PreviewAudio="M\vgmstream\bat18.ogg"/>
+ <Option Value="27" Name="Sheet Music Boss (Arranged)"        PreviewFile="_covers\Sheet Music Boss.png"               PreviewAudio="M\vgmstream\bat19.ogg"/>
+ <Option Value="28" Name="ToxicxEternity (Metal)"             PreviewFile="_covers\ToxicxEternity.png"                 PreviewAudio="M\vgmstream\bat21.ogg"/>
+ <Option Value="29" Name="Tsunamods Soundtrack (Arranged)"    PreviewFile="_covers\Tsuna_arranged.png"                 PreviewAudio="M\vgmstream\bat25.ogg"/>
+ <Option Value="30" Name="Vicente Bravo (Arranged)"           PreviewFile="_covers\VB.png"                             PreviewAudio="M\vgmstream\bat26.ogg"/>
+ <Option Value="31" Name="Vincent Moretto (Arranged)"         PreviewFile="_covers\Vincent Moretto.png"                PreviewAudio="M\vgmstream\bat22.ogg"/>
+ <Option Value="32" Name="Zach Payne (Remix)"                 PreviewFile="_covers\Zach Payne.png"                     PreviewAudio="M\vgmstream\bat23.ogg"/>
+
+</ConfigOption>
+<!--******************************Sample Music-Boss Battle*****************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>1twff</ID>
+	<Name>Sample tracks from Those Who Fight Further/Fight On !</Name>
+	<Description>Plays during random boss battles.</Description>
+	
+	<Option Value="0"  Name="Artist Drop Down"             PreviewFile="_covers\TTFF.png"/>
+	<Option Value="1"  Name="Alex Moukala (Arranged)"      PreviewFile="_covers\Alex Moukala.png"                         PreviewAudio="M\vgmstream\chu3.ogg"/>
+	<Option Value="2"  Name="Artificial Fear (Metal)"      PreviewFile="_covers\artifical_fear.png"                       PreviewAudio="M\vgmstream\chu18.ogg"/>
+	<Option Value="3"  Name="CarboHydroM (Metal)"          PreviewFile="_covers\OCRemix.png"                              PreviewAudio="M\vgmstream\chu2.ogg"/> 
+	<Option Value="4"  Name="Daniel Tidwell (Metal)"       PreviewFile="_covers\Daniel Tidwell.png"                       PreviewAudio="M\vgmstream\chu21.ogg"/> 
+	<Option Value="5"  Name="DLPB Fan (Arranged)"          PreviewFile="_covers\Anxious Heart - Full Selection.png"       PreviewAudio="M\vgmstream\chu14.ogg"/> 
+	<Option Value="6"  Name="DLPB OST (Arranged)"          PreviewFile="_covers\Anxious Heart - OST.png"                  PreviewAudio="M\vgmstream\chu13.ogg"/>
+	<Option Value="7"  Name="DLPB PRO (Metal)"             PreviewFile="_covers\Anxious Heart - Professional.png"         PreviewAudio="M\vgmstream\chu5.ogg"/>
+	<Option Value="8"  Name="EHWButler (Metal)"            PreviewFile="_covers\OCRemix.png"                              PreviewAudio="M\vgmstream\chu10.ogg"/>
+	<Option Value="9"  Name="Falkkone (Metal)"             PreviewFile="_covers\falk.png"                                 PreviewAudio="M\vgmstream\chu16.ogg"/>
+	<Option Value="10" Name="Ferdk (Metal)"                PreviewFile="_covers\fed.png"                                  PreviewAudio="M\vgmstream\chu24.ogg"/> 
+	<Option Value="11" Name="FinalFantim (Arranged)"       PreviewFile="_covers\FinalFantim.png"                          PreviewAudio="M\vgmstream\chu11.ogg"/> 
+	<Option Value="12" Name="FuegoRedXIII (Arranged)"      PreviewFile="_covers\FuegoRedXIII.png"                         PreviewAudio="M\vgmstream\chu4.ogg"/> 
+	<Option Value="13" Name="FuegoRedXIII v2 (Arranged)"   PreviewFile="_covers\FuegoRedXIII.png"                         PreviewAudio="M\vgmstream\chu7.ogg"/>
+	<Option Value="14" Name="Levo Lution (Remix)"          PreviewFile="_covers\OCRemix.png"                              PreviewAudio="M\vgmstream\chu19.ogg"/> 
+	<Option Value="15" Name="Richard Bichler (Metal)"      PreviewFile="_covers\RichaadEB.png"                            PreviewAudio="M\vgmstream\chu17.ogg"/>
+	<Option Value="16" Name="Richard Bichler (Metal)"      PreviewFile="_covers\RichaadEB.png"                            PreviewAudio="M\vgmstream\chu23.ogg"/> 
+	<Option Value="17" Name="Standby (Remix)"              PreviewFile="_covers\OCRemix.png"                              PreviewAudio="M\vgmstream\chu1.ogg"/> 
+	<Option Value="18" Name="Chris Marsh (Arranged)"       PreviewFile="_covers\Chris Marsh.png"                          PreviewAudio="M\vgmstream\chu6.ogg"/> 
+	<Option Value="19" Name="The Runaway Five (Arranged)"  PreviewFile="_covers\OCRemix.png"                              PreviewAudio="M\vgmstream\chu15.ogg"/> 
+	<Option Value="20" Name="Toxic Eternity (Metal)"       PreviewFile="_covers\ToxicxEternity.png"                       PreviewAudio="M\vgmstream\chu8.ogg"/>  
+	<Option Value="21" Name="Tsunamods (Arranged)"         PreviewFile="_covers\Tsuna_arranged.png"                       PreviewAudio="M\vgmstream\chu9.ogg"/> 
+	<Option Value="22" Name="Vicente Bravo (Arranged)"     PreviewFile="_covers\VB.png"                                   PreviewAudio="M\vgmstream\chu12.ogg"/> 
+	<Option Value="23" Name="Zircon (Remix)"               PreviewFile="_covers\OCRemix.png"                              PreviewAudio="M\vgmstream\chu22.ogg"/> 
+</ConfigOption>    
+<!--******************************Sample Music-Victory*****************************************-->
+<ConfigOption>
+	<Type>List</Type>
+	<Default>0</Default>
+	<ID>1vff</ID>
+	<Name>Sample tracks from Victory Fanfare</Name>
+	<Description>Plays after winning a battle.</Description>
+	
+	<Option Value="0"  Name="Artist Drop Down"                          PreviewFile="_covers\VF.png"/>
+	<Option Value="1"  Name="Aluminum (Remix)"                          PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\fan6.ogg"/>
+	<Option Value="2"  Name="Aluminum v2(Remix)"                        PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\fan26.ogg"/>
+	<Option Value="3"  Name="Another Soundscape (Remix)"                PreviewFile="_covers\VOTL.gif"                           PreviewAudio="M\vgmstream\fan4.ogg"/>
+	<Option Value="4"  Name="Another Soundscape v2(Remix)"              PreviewFile="_covers\VOTL.gif"                           PreviewAudio="M\vgmstream\fan25.ogg"/> 
+	<Option Value="5"  Name="Carlucci, Ace (Metal)"                     PreviewFile="_covers\Carlucci.png"                       PreviewAudio="M\vgmstream\fan24.ogg"/> 
+	<Option Value="6"  Name="Daniel Lambie (Metal FF6 Throwback)"       PreviewFile="_covers\DL.png"                             PreviewAudio="M\vgmstream\fan19.ogg"/>
+	<Option Value="7"  Name="Chris Marsh (Arranged)"                    PreviewFile="_covers\Chris Marsh.png"                    PreviewAudio="M\vgmstream\fan3.ogg"/>
+	<Option Value="8"  Name="Dj Cutman (Remix)"                         PreviewFile="_covers\Gamechops - Dj Cutman.png"          PreviewAudio="M\vgmstream\fan7.ogg"/>
+	<Option Value="9"  Name="Dj v2 Cutman (Remix)"                      PreviewFile="_covers\Gamechops - Dj Cutman.png"          PreviewAudio="M\vgmstream\fan8.ogg"/>
+	<Option Value="10" Name="Dj v3 Cutman (Remix)"                      PreviewFile="_covers\Gamechops - Dj Cutman.png"          PreviewAudio="M\vgmstream\fan22.ogg"/>
+	<Option Value="11" Name="Dj v4 Cutman (Remix)"                      PreviewFile="_covers\Gamechops - Dj Cutman.png"          PreviewAudio="M\vgmstream\fan23.ogg"/>
+	<Option Value="12" Name="DLPB OST Arranged)"                        PreviewFile="_covers\Anxious Heart - OST.png"            PreviewAudio="M\vgmstream\fan12.ogg"/>
+	<Option Value="13" Name="DLPB PRO (Arranged)"                       PreviewFile="_covers\Anxious Heart - Professional.png"   PreviewAudio="M\vgmstream\fan13.ogg"/>
+	<Option Value="14" Name="FamilyJules7x (Metal)"                     PreviewFile="_covers\Family jules.png"                   PreviewAudio="M\vgmstream\fan5.ogg"/> 
+	<Option Value="15" Name="FinalFantim (Arranged)"                    PreviewFile="_covers\FinalFantim.png"                    PreviewAudio="M\vgmstream\fan1.ogg"/>
+	<Option Value="16" Name="Fredrik Hagglund (Remix)"                  PreviewFile="_covers\FH.png"                             PreviewAudio="M\vgmstream\fan14.ogg"/> 
+	<Option Value="17" Name="Girlz Melon (Metal)"                       PreviewFile="_covers\Girlz_Melon.png"                    PreviewAudio="M\vgmstream\21.ogg"/> 
+	<Option Value="18" Name="Girlz Melon v2 (Metal))"                   PreviewFile="_covers\Girlz_Melon.png"                    PreviewAudio="M\vgmstream\fan20.ogg"/> 
+	<Option Value="19" Name="Holder N Ephixa (Remix)"                   PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\fan11.ogg"/> 
+	<Option Value="20" Name="Mykah (Remix)"                             PreviewFile="_covers\Huskybythegeek.png"                 PreviewAudio="M\vgmstream\fan9.ogg"/> 
+	<Option Value="21" Name="PillarsInTheSky (Metal)"                   PreviewFile="_covers\pill.png"                           PreviewAudio="M\vgmstream\fan18.ogg"/> 
+	<Option Value="22" Name="The Runaway Five (Arranged)"               PreviewFile="_covers\OCRemix.png"                        PreviewAudio="M\vgmstream\fan15.ogg"/>  
+	<Option Value="23" Name="Tsunamods Arranged Soundtrack (Arranged)"  PreviewFile="_covers\Tsuna_arranged.png"                 PreviewAudio="M\vgmstream\fan16.ogg"/> 
+	<Option Value="24" Name="Vicente Bravo (Arranged)"                  PreviewFile="_covers\VB.png"                             PreviewAudio="M\vgmstream\fan17.ogg"/> 
+</ConfigOption>    
+
+
+</ModInfo>
