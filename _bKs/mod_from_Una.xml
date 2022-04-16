@@ -1,0 +1,1078 @@
+<?xml version="1.0"?>
+<ModInfo>
+  <ID></ID>
+  <Name>The Reunion - FF7 PSX OST</Name>
+  <Author>DLPB</Author>
+  <Version>1</Version>
+  <Category>Media</Category>
+  <Description>Complete FF7 music replacement with the PSX OST.</Description>
+  <ReleaseNotes>The tracks from The Reunion mod packaged for use in 7th Heaven.</ReleaseNotes>
+  <Link>https://www.ff7.live</Link>
+  <PreviewFile></PreviewFile>
+
+<ModFolder Folder="TR-PSXOST\aseri"  ActiveWhen="oggaseri = 1" />
+<ModFolder Folder="TR-PSXOST\aseri2"  ActiveWhen="oggaseri2 = 1" />
+<ModFolder Folder="TR-PSXOST\ayasi"  ActiveWhen="oggayasi = 1" />
+<ModFolder Folder="TR-PSXOST\barret"  ActiveWhen="oggbarret = 1" />
+<ModFolder Folder="TR-PSXOST\bat"  ActiveWhen="oggbat = 1" />
+<ModFolder Folder="TR-PSXOST\bee"  ActiveWhen="oggbee = 1" />
+<ModFolder Folder="TR-PSXOST\bokujo"  ActiveWhen="oggbokujo = 1" />
+<ModFolder Folder="TR-PSXOST\boo"  ActiveWhen="oggboo = 1" />
+<ModFolder Folder="TR-PSXOST\cannon"  ActiveWhen="oggcannon = 1" />
+<ModFolder Folder="TR-PSXOST\canyon"  ActiveWhen="oggcanyon = 1" />
+<ModFolder Folder="TR-PSXOST\cephiros"  ActiveWhen="oggcephiros = 1" />
+<ModFolder Folder="TR-PSXOST\chase"  ActiveWhen="oggchase = 1" />
+<ModFolder Folder="TR-PSXOST\chu"  ActiveWhen="oggchu = 1" />
+<ModFolder Folder="TR-PSXOST\chu2"  ActiveWhen="oggchu2 = 1" />
+<ModFolder Folder="TR-PSXOST\cinco"  ActiveWhen="oggcinco = 1" />
+<ModFolder Folder="TR-PSXOST\cintro"  ActiveWhen="oggcintro = 1" />
+<ModFolder Folder="TR-PSXOST\condor"  ActiveWhen="oggcondor = 1" />
+<ModFolder Folder="TR-PSXOST\corel"  ActiveWhen="oggcorel = 1" />
+<ModFolder Folder="TR-PSXOST\corneo"  ActiveWhen="oggcorneo = 1" />
+<ModFolder Folder="TR-PSXOST\costa"  ActiveWhen="oggcosta = 1" />
+<ModFolder Folder="TR-PSXOST\crlost"  ActiveWhen="oggcrlost = 1" />
+<ModFolder Folder="TR-PSXOST\crwin"  ActiveWhen="oggcrwin = 1" />
+<ModFolder Folder="TR-PSXOST\date"  ActiveWhen="oggdate = 1" />
+<ModFolder Folder="TR-PSXOST\dokubo"  ActiveWhen="oggdokubo = 1" />
+<ModFolder Folder="TR-PSXOST\dun2"  ActiveWhen="oggdun2 = 1" />
+<ModFolder Folder="TR-PSXOST\earis"  ActiveWhen="oggearis = 1" />
+<ModFolder Folder="TR-PSXOST\earislo"  ActiveWhen="oggearislo = 1" />
+<ModFolder Folder="TR-PSXOST\elec"  ActiveWhen="oggelec = 1" />
+<ModFolder Folder="TR-PSXOST\fan2"  ActiveWhen="oggfan2 = 1" />
+<ModFolder Folder="TR-PSXOST\fanfare"  ActiveWhen="oggfanfare = 1" />
+<ModFolder Folder="TR-PSXOST\fiddle"  ActiveWhen="oggfiddle = 1" />
+<ModFolder Folder="TR-PSXOST\geki"  ActiveWhen="ogggeki = 1" />
+<ModFolder Folder="TR-PSXOST\gold1"  ActiveWhen="ogggold1 = 1" />
+<ModFolder Folder="TR-PSXOST\guitar2"  ActiveWhen="oggguitar2 = 1" />
+<ModFolder Folder="TR-PSXOST\gun"  ActiveWhen="ogggun = 1" />
+<ModFolder Folder="TR-PSXOST\hen"  ActiveWhen="ogghen = 1" />
+<ModFolder Folder="TR-PSXOST\hiku"  ActiveWhen="ogghiku = 1" />
+<ModFolder Folder="TR-PSXOST\horror"  ActiveWhen="ogghorror = 1" />
+<ModFolder Folder="TR-PSXOST\iseki"  ActiveWhen="oggiseki = 1" />
+<ModFolder Folder="TR-PSXOST\jukai"  ActiveWhen="oggjukai = 1" />
+<ModFolder Folder="TR-PSXOST\junon"  ActiveWhen="oggjunon = 1" />
+<ModFolder Folder="TR-PSXOST\jyro"  ActiveWhen="oggjyro = 1" />
+<ModFolder Folder="TR-PSXOST\ketc"  ActiveWhen="oggketc = 1" />
+<ModFolder Folder="TR-PSXOST\kita"  ActiveWhen="oggkita = 1" />
+<ModFolder Folder="TR-PSXOST\kurai"  ActiveWhen="oggkurai = 1" />
+<ModFolder Folder="TR-PSXOST\lb1"  ActiveWhen="ogglb1 = 1" />
+<ModFolder Folder="TR-PSXOST\lb2"  ActiveWhen="ogglb2 = 1" />
+<ModFolder Folder="TR-PSXOST\ld"  ActiveWhen="oggld = 1" />
+<ModFolder Folder="TR-PSXOST\makoro"  ActiveWhen="oggmakoro = 1" />
+<ModFolder Folder="TR-PSXOST\mati"  ActiveWhen="oggmati = 1" />
+<ModFolder Folder="TR-PSXOST\mekyu"  ActiveWhen="oggmekyu = 1" />
+<ModFolder Folder="TR-PSXOST\mogu"  ActiveWhen="oggmogu = 1" />
+<ModFolder Folder="TR-PSXOST\mura1"  ActiveWhen="oggmura1 = 1" />
+<ModFolder Folder="TR-PSXOST\nointro"  ActiveWhen="oggnointro = 1" />
+<ModFolder Folder="TR-PSXOST\ob"  ActiveWhen="oggob = 1" />
+<ModFolder Folder="TR-PSXOST\odds"  ActiveWhen="oggodds = 1" />
+<ModFolder Folder="TR-PSXOST\over2"  ActiveWhen="oggover2 = 1" />
+<ModFolder Folder="TR-PSXOST\parade"  ActiveWhen="oggparade = 1" />
+<ModFolder Folder="TR-PSXOST\pj"  ActiveWhen="oggpj = 1" />
+<ModFolder Folder="TR-PSXOST\pre"  ActiveWhen="oggpre = 1" />
+<ModFolder Folder="TR-PSXOST\red"  ActiveWhen="oggred = 1" />
+<ModFolder Folder="TR-PSXOST\rhythm"  ActiveWhen="oggrhythm = 1" />
+<ModFolder Folder="TR-PSXOST\riku"  ActiveWhen="oggriku = 1" />
+<ModFolder Folder="TR-PSXOST\ro"  ActiveWhen="oggro = 1" />
+<ModFolder Folder="TR-PSXOST\rocket"  ActiveWhen="oggrocket = 1" />
+<ModFolder Folder="TR-PSXOST\roll"  ActiveWhen="oggroll = 1" />
+<ModFolder Folder="TR-PSXOST\rukei"  ActiveWhen="oggrukei = 1" />
+<ModFolder Folder="TR-PSXOST\sadbar"  ActiveWhen="oggsadbar = 1" />
+<ModFolder Folder="TR-PSXOST\sadsid"  ActiveWhen="oggsadsid = 1" />
+<ModFolder Folder="TR-PSXOST\sea"  ActiveWhen="oggsea = 1" />
+<ModFolder Folder="TR-PSXOST\seto"  ActiveWhen="oggseto = 1" />
+<ModFolder Folder="TR-PSXOST\si"  ActiveWhen="oggsi = 1" />
+<ModFolder Folder="TR-PSXOST\sid2"  ActiveWhen="oggsid2 = 1" />
+<ModFolder Folder="TR-PSXOST\sido"  ActiveWhen="oggsido = 1" />
+<ModFolder Folder="TR-PSXOST\siera"  ActiveWhen="oggsiera = 1" />
+<ModFolder Folder="TR-PSXOST\sinra"  ActiveWhen="oggsinra = 1" />
+<ModFolder Folder="TR-PSXOST\sinraslo"  ActiveWhen="oggsinraslo = 1" />
+<ModFolder Folder="TR-PSXOST\snow"  ActiveWhen="oggsnow = 1" />
+<ModFolder Folder="TR-PSXOST\ta"  ActiveWhen="oggta = 1" />
+<ModFolder Folder="TR-PSXOST\tb"  ActiveWhen="oggtb = 1" />
+<ModFolder Folder="TR-PSXOST\tender"  ActiveWhen="oggtender = 1" />
+<ModFolder Folder="TR-PSXOST\tifa"  ActiveWhen="oggtifa = 1" />
+<ModFolder Folder="TR-PSXOST\tm"  ActiveWhen="oggtm = 1" />
+<ModFolder Folder="TR-PSXOST\utai"  ActiveWhen="oggutai = 1" />
+<ModFolder Folder="TR-PSXOST\vincent"  ActiveWhen="oggvincent = 1" />
+<ModFolder Folder="TR-PSXOST\walz"  ActiveWhen="oggwalz = 1" />
+<ModFolder Folder="TR-PSXOST\weapon"  ActiveWhen="oggweapon = 1" />
+<ModFolder Folder="TR-PSXOST\yado"  ActiveWhen="oggyado = 1" />
+<ModFolder Folder="TR-PSXOST\yufi"  ActiveWhen="oggyufi = 1" />
+<ModFolder Folder="TR-PSXOST\yufi2"  ActiveWhen="oggyufi2 = 1" />
+<ModFolder Folder="TR-PSXOST\yume"  ActiveWhen="oggyume = 1" />
+
+<!--***BATTLES AND ENEMIES SECTION***-->
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>0</Default>
+    <ID>BattlesPlusEnemiesHeader</ID>
+    <Name>===Battles and Enemies===</Name>
+    <Description>Battles and Enemies - Expand arrows on the left for track selection options.</Description>
+    <Option Value="0" Name=""/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggweapon</ID>
+    <Name>Attack of the Weapon</Name>
+    <Description>Plays during Weapon appearances.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\weapon\vgmstream\083 Weapon Raid.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogglb1</ID>
+    <Name>Birth of a God</Name>
+    <Description>Plays during the battle with Bizarro-Sephiroth.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\lb1\vgmstream\087 Birth of a God.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggfan2</ID>
+    <Name>Fanfare</Name>
+    <Description>Plays after winning a battle.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\fan2\vgmstream\046 Fanfare.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggchu</ID>
+    <Name>Fight On!</Name>
+    <Description>Theme during various boss battles.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\chu\vgmstream\010 Those Who Keep Fighting.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggchu2</ID>
+    <Name>J-E-N-O-V-A</Name>
+    <Description>Plays during battles against Jenova-BIRTH, Jenova∙DEATH and Helletic Hojo, and during the descent to Jenova∙SYNTHESIS.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\chu2\vgmstream\052 J-e-n-o-v-a.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggpj</ID>
+    <Name>Jenova Complete</Name>
+    <Description>Plays during the battle with Jenova-SYNTHESIS.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\pj\vgmstream\084 Jenova Complete.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggbat</ID>
+    <Name>Let the Battles Begin!</Name>
+    <Description>Plays during all normal battles.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\bat\vgmstream\007 Those Who Fight.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogglb2</ID>
+    <Name>One-Winged Angel</Name>
+    <Description>Plays during the battle with Safer-Sephiroth.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\lb2\vgmstream\081 One-Winged Angel.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsinra</ID>
+    <Name>Shinra, Inc</Name>
+    <Description>Plays during cutscenes involving Shinra Electric Power Company.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\sinra\vgmstream\029 Shin-Ra Company.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcephiros</ID>
+    <Name>Those Chosen by the Planet</Name>
+    <Description>Sephiroth's theme, it plays during the dragon battle at the start of the flashback to the Nibelheim Incident, at the Shinra Mansion in Nibelheim, and during the final fight with Sephiroth.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\cephiros\vgmstream\040 The Planet's Chosen One.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcintro</ID>
+    <Name>Those Chosen by the Planet (2)</Name>
+    <Description>Bell and heartbeat loop only.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\cintro\vgmstream\050 The Planet's Chosen One (Looped).ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggnointro</ID>
+    <Name>Those Chosen by the Planet (3)</Name>
+    <Description>Version without intro and increased tempo.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\nointro\vgmstream\091 The Planet's Chosen One (No Intro).ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggrhythm</ID>
+    <Name>Turks' Theme</Name>
+    <Description>Plays in any room or cutscene the Turks appear in.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\rhythm\vgmstream\045 Turks' Theme.ogg"/>
+  </ConfigOption>
+
+  <!--***CHARACTERS SECTION***-->
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>0</Default>
+    <ID>CharacterHeader</ID>
+    <Name>===Characters===</Name>
+    <Description>Characters - Expand arrows on the left for track selection options.</Description>
+    <Option Value="0" Name=""/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggearis</ID>
+    <Name>Aerith's Theme</Name>
+    <Description>Plays during scenes with Aeris and Sephiroth in the Forgotten City and during the subsequent battle with Jenova-LIFE.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\earis\vgmstream\012 Aerith's Theme.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggbarret</ID>
+    <Name>Barret's Theme</Name>
+    <Description>Plays as the background to Sector 7 and the 7th Heaven after Cloud agrees to attack the Sector 5 Reactor.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\barret\vgmstream\041 Barrett's Theme.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggketc</ID>
+    <Name>Cait Sith's Theme</Name>
+    <Description>Plays when the player first meets Cait Sith in the Gold Saucer and during prominent scenes featuring him.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\ketc\vgmstream\011 Cait Sith's Theme.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsid2</ID>
+    <Name>Cid's Theme</Name>
+    <Description>Plays when meeting Cid and during prominent scenes featuring him.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\sid2\vgmstream\072 Cid's Theme.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggyufi</ID>
+    <Name>Descendant of Shinobi</Name>
+    <Description>Plays upon meeting Yuffie and during prominent scenes with her.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\yufi\vgmstream\053 Descendant of Ninjas.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggred</ID>
+    <Name>Red XIII's Theme</Name>
+    <Description>Plays when Red XIII introduces himself to the party.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\red\vgmstream\026 Red XIII's Theme.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggseto</ID>
+    <Name>The Great Warrior</Name>
+    <Description>Plays during scenes in Cosmo Canyon when Red XIII discovers the truth about his father, Seto.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\seto\vgmstream\027 The Great Warrior.ogg"/>
+  </ConfigOption>
+
+    <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggvincent</ID>
+    <Name>The Nightmare Begins</Name>
+    <Description>Plays in basement of Shinra Mansion, when meeting Vincent, and during Lucrecia's flashback.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\vincent\vgmstream\066 Beginning of the Nightmare.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggtifa</ID>
+    <Name>Tifa's Theme</Name>
+    <Description>Plays during Tifa's flashbacks and in the 7th Heaven before attacking the Sector 5 Reactor.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\tifa\vgmstream\034 Tifa's Theme.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogghen</ID>
+    <Name>Who... Am I?</Name>
+    <Description>Plays in Mideel after Cloud is found.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\hen\vgmstream\075 Who... Am I.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggyume</ID>
+    <Name>Who... Are You?</Name>
+    <Description>Plays during cutscenes involving either Jenova or Sephiroth. Also when Cloud collapses in Honeybee Inn.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\yume\vgmstream\018 Who Are You.ogg"/>
+  </ConfigOption>
+
+<!--***GAME MOMENTS SECTION***-->
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>0</Default>
+    <ID>GameMomentsHeader</ID>
+    <Name>===Game Moments===</Name>
+    <Description>Game Moments - Expand arrows on the left for track selection options.</Description>
+    <Option Value="0" Name=""/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggover2</ID>
+    <Name>Continue</Name>
+    <Description>Plays upon a Game Over.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\over2\vgmstream\058 Continue (Game Over).ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggro</ID>
+    <Name>Countdown</Name>
+    <Description>Plays during the rocket launch cutscene.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\ro\vgmstream\089 The Countdown Begins.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogggeki</ID>
+    <Name>Debut</Name>
+    <Description>Plays during the date night theatre performance at Gold Saucer.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\geki\vgmstream\062 Debut.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggroll</ID>
+    <Name>Ending Credits</Name>
+    <Description>Plays in the credits.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\roll\vgmstream\098 Staff Roll.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggfanfare</ID>
+    <Name>Fanfare (Special Move/Pose)</Name>
+    <Description>Plays when Cloud does his special move/pose after the Junon parade while in Shinra uniform.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\fanfare\vgmstream\005 Fanfare (Junon Parade).ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggyado</ID>
+    <Name>Good Night, Until Tomorrow</Name>
+    <Description>Plays during a rest at an inn.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\yado\vgmstream\057 Good Night, Until Tomorrow.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsadsid</ID>
+    <Name>Launching a Dream Into Space</Name>
+    <Description>Plays when the party is launched into space.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\sadsid\vgmstream\073 A Dream of Space.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcannon</ID>
+    <Name>Mako Cannon</Name>
+    <Description>Plays during the FMV where the Sister Ray cannon is fired from Midgar.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\cannon\vgmstream\048 The Mako Cannon Fires.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggguitar2</ID>
+    <Name>Other Side of the Mountain</Name>
+    <Description>Plays when Tifa realizes Cloud's deepest memory when both are submerged in the Lifestream.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\guitar2\vgmstream\004 Other Side of the Mountain.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggparade</ID>
+    <Name>Rufus' Welcoming Ceremony</Name>
+    <Description>Plays during Rufus' welcoming ceremony, the marching minigame and from thereon after in Junon until Part II.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\parade\vgmstream\016 Rufus' Welcoming Ceremony.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggjyro</ID>
+    <Name>Steal the Tiny Bronco!</Name>
+    <Description>Plays when the party steals the Tiny Bronco from Rocket Town.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\jyro\vgmstream\090 Steal the Tiny Bronco!.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggyufi2</ID>
+    <Name>Stolen Materia</Name>
+    <Description>Plays when Yuffie steals the party's Materia.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\yufi2\vgmstream\078 Stolen Materia.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggriku</ID>
+    <Name>The Destruction of Shinra (Pt. 1)</Name>
+    <Description>Plays during the FMV where the cannon destroys the shield of the North Crater.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\riku\vgmstream\092 The Mako Cannon Fires.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsi</ID>
+    <Name>The Destruction of Shinra (Pt. 2)</Name>
+    <Description>Plays during the FMV of Diamond Weapon's attack on the Shinra building.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\si\vgmstream\093 Shin-Ra Explodes.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggpre</ID>
+    <Name>The Prelude</Name>
+    <Description>Plays during the introduction screen.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\pre\vgmstream\095 Prelude.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggdate</ID>
+    <Name>Words Drowned By Fireworks</Name>
+    <Description>Plays on the Round House ride in Gold Saucer during the date scene.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\date\vgmstream\049 Words Drowned Out by Fireworks.ogg"/>
+  </ConfigOption>
+
+  <!--***MINIGAMES SECTION***-->
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>0</Default>
+    <ID>MinigamesHeader</ID>
+    <Name>===Minigames===</Name>
+    <Description>Minigames - Expand arrows on the left for track selection options.</Description>
+    <Option Value="0" Name=""/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggelec</ID>
+    <Name>Electric de Chocobo</Name>
+    <Description>Plays during a battle encounter with a chocobo and during the snowboarding minigame.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\elec\vgmstream\044 Electric de Chocobo.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggfiddle</ID>
+    <Name>Fiddle de Chocobo</Name>
+    <Description>Plays during the Chocobo Racing minigame, and in Mideel when near the White Chocobo.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\fiddle\vgmstream\008 Fiddle de Chocobo.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcondor</ID>
+    <Name>Fort Condor</Name>
+    <Description>Plays during fights at Fort Condor.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\condor\vgmstream\080 Fort Condor.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcrwin</ID>
+    <Name>Jackpot!</Name>
+    <Description>Plays if the player wins a chocobo race.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\crwin\vgmstream\059 Jackpot!.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcrlost</ID>
+    <Name>Tango of Tears</Name>
+    <Description>Plays if the player loses a chocobo race.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\crlost\vgmstream\060 Tango of Tears.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggchase</ID>
+    <Name>The Chase</Name>
+    <Description>Plays during the motorcycle minigame.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\chase\vgmstream\038 Crazy Motorcycle.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggmogu</ID>
+    <Name>The Highwind Takes to the Skies (Intro)</Name>
+    <Description>Plays after the player beats the Mog House game in Gold Saucer.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\mogu\vgmstream\094 Highwind of the Skies (alternate).ogg"/>
+  </ConfigOption>
+
+<ConfigOption>
+  <Type>List</Type>
+  <Default>1</Default>
+  <ID>oggodds</ID>
+  <Name>Win/Place/Show Chocobo!</Name>
+  <Description>Plays in the Chocobo Square of the Gold Saucer.</Description>
+  <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+  <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\odds\vgmstream\061 The Favourite Chocobo.ogg"/>
+</ConfigOption>
+
+<!--***PLACES SECTION***-->
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>0</Default>
+    <ID>PlacesHeader</ID>
+    <Name>===Places===</Name>
+    <Description>Places - Expand arrows on the left for track selection options.</Description>
+    <Option Value="0" Name=""/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggkurai</ID>
+    <Name>Anxiety</Name>
+    <Description>Plays in several areas, such as the Train Graveyard and Nibelheim.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\kurai\vgmstream\009 Anxious Heart.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggob</ID>
+    <Name>Bombing Mission</Name>
+    <Description>Plays before and after attack on the Sector 1 Reactor.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\ob\vgmstream\002 Bombing Mission.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsnow</ID>
+    <Name>Buried in Snow</Name>
+    <Description>Plays in the Great Glacier.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\snow\vgmstream\077 Buried in Snow.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcanyon</ID>
+    <Name>Cosmo Canyon</Name>
+    <Description>Plays in Cosmo Canyon.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\canyon\vgmstream\025 Canyon of the Falling Stars.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcosta</ID>
+    <Name>Costa del Sol</Name>
+    <Description>Plays in Costa del Sol.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\costa\vgmstream\035 Coast of the Sun.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggtender</ID>
+    <Name>Dear to the Heart</Name>
+    <Description>Plays on multiple occasions, most notably when the party first leaves Midgar, as well as in some towns and during some cutscenes involving the entire party.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\tender\vgmstream\064 Treasured Memories.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggrukei</ID>
+    <Name>Desert Wasteland</Name>
+    <Description>Plays in the Corel Prison.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\rukei\vgmstream\039 Land of Exile in the Sand.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcorneo</ID>
+    <Name>Don of the Slums</Name>
+    <Description>Plays in Don Corneo's Mansion.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\corneo\vgmstream\023 Don of the Slums.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggbokujo</ID>
+    <Name>Farm Boy</Name>
+    <Description>Plays in the Chocobo Farm.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\bokujo\vgmstream\032 Farm Boy.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggearislo</ID>
+    <Name>Flowers Blooming in the Church</Name>
+    <Description>Plays in the Sector 5 Church, and in Aerith's house.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\earislo\vgmstream\037 Flowers Blooming in the Church.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggjukai</ID>
+    <Name>Forested Temple</Name>
+    <Description>Plays in the Temple of the Ancients.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\jukai\vgmstream\068 Temple in the Forest.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggjunon</ID>
+    <Name>From the Edge of Despair</Name>
+    <Description>Plays in Mideel when Cloud is hurt, and in Rocket Town after Meteor has been summoned.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\junon\vgmstream\063 From the Depths of Despair.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogggold1</ID>
+    <Name>Gold Saucer</Name>
+    <Description>Plays in the Gold Saucer.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\gold1\vgmstream\055 Gold Saucer.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggbee</ID>
+    <Name>Honeybee Inn</Name>
+    <Description>Plays in the Honey Bee Inn.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\bee\vgmstream\067 Honeybee Manor.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggaseri</ID>
+    <Name>Hurry!</Name>
+    <Description>Plays in several areas, such as when escaping from Reno in the Church after Aerith meets Cloud. Also, during areas in Sector 7.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\aseri\vgmstream\054 Hurry!.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggaseri2</ID>
+    <Name>Hurry Up!</Name>
+    <Description>Plays during battles in the Battle Square, when Cid and the party try to stop the runaway train from hitting North Corel and on the World Map when Diamond Weapon appears.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\aseri2\vgmstream\070 Hurry Up!.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggdun2</ID>
+    <Name>In Search of the Man in Black</Name>
+    <Description>Plays in the Mythril Mine, Ancient Forest and the Sleeping Forest among other locations.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\dun2\vgmstream\003 Pursue the Man in a Black Cloak!.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsinraslo</ID>
+    <Name>Infiltrating Shinra</Name>
+    <Description>Plays in the Shinra Headquarters.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\sinraslo\vgmstream\030 Infiltrating the Shin-Ra Building.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsido</ID>
+    <Name>It's Hard to Stand on Both Feet!</Name>
+    <Description>Plays on the ship from Junon to Costa del Sol.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\sido\vgmstream\020 Standing on Two Legs is Difficult!.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggld</ID>
+    <Name>Judgment Day</Name>
+    <Description>Plays in the Northern Cave.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\ld\vgmstream\086 Judgement Day.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggboo</ID>
+    <Name>Lifestream</Name>
+    <Description>Plays during scenes at Cosmo Canyon Observatory when Bugenhagen explains about the Planet and the Lifestream.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\boo\vgmstream\043 Flow of Life.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggiseki</ID>
+    <Name>Listen to the Cries of the Planet</Name>
+    <Description>Plays in the Forgotten City.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\iseki\vgmstream\074 Hear the Voice of the Planet.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggayasi</ID>
+    <Name>Lurking in the Darkness</Name>
+    <Description>Plays at the plate interior and several underground areas.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\ayasi\vgmstream\028 Lurking in the Darkness.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggmakoro</ID>
+    <Name>Mako Reactor</Name>
+    <Description>Plays inside each of the Mako Reactors.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\makoro\vgmstream\006 Mako Reactor.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsadbar</ID>
+    <Name>Mark of a Traitor</Name>
+    <Description>Plays in North Corel.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\sadbar\vgmstream\069 Mark of a Traitor.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcorel</ID>
+    <Name>Mining Town</Name>
+    <Description>Plays during Barret's flashbacks at Corel.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\corel\vgmstream\042 Coal Mining Town.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggmati</ID>
+    <Name>On Our Way</Name>
+    <Description>Plays in various towns such as Kalm and Junon.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\mati\vgmstream\019 While Travelling.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggtm</ID>
+    <Name>On That Day, Five Years Ago...</Name>
+    <Description>Plays on multiple occasions, most notably during the Nibelheim Incident flashbacks and Cloud and Tifa's night under the Highwind before entering the Northern Cave.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\tm\vgmstream\033 That Day Five Years Ago.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsiera</ID>
+    <Name>Open Your Heart</Name>
+    <Description>Plays during non-battle scenes in Fort Condor, and in the Materia Caves.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\siera\vgmstream\021 If You Opened Up Your Heart.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggmura1</ID>
+    <Name>Provincial Town</Name>
+    <Description>Plays in Bone Village and Mideel.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\mura1\vgmstream\056 Frontier Village.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggmekyu</ID>
+    <Name>Reunion</Name>
+    <Description>Plays when Shinra finds the Promised Land.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\mekyu\vgmstream\079 The Reunion.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogggun</ID>
+    <Name>Shinra's Full-Scale Assault</Name>
+    <Description>Plays during the FMV with Barret shows Tifa the Meteor, when Cloud is going through various obstacles when trying to reach the upper plate to get to Shinra headquarters, and in Junon after acquiring the Highwind.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\gun\vgmstream\082 Shin-Ra's Full-Scale Offensive.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggrocket</ID>
+    <Name>The Oppressed</Name>
+    <Description>Plays in Wall Market and Rocket Town.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\rocket\vgmstream\036 The Oppressed.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogghorror</ID>
+    <Name>Trail of Blood</Name>
+    <Description>Plays in the Shinra Headquarters after the party escapes from the cells and in the Cave of the Gi under Cosmo Canyon.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\horror\vgmstream\024 Blood Trail.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggdokubo</ID>
+    <Name>Under the Rotting Pizza</Name>
+    <Description>Plays in Sector 5 and Sector 6 Slums.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\dokubo\vgmstream\031 Under the Rotten Pizza.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggwalz</ID>
+    <Name>Waltz de Chocobo</Name>
+    <Description>Plays when the chocobos dance at the Chocobo Farm.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\walz\vgmstream\022 Waltz de Chocobo.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggutai</ID>
+    <Name>Wutai</Name>
+    <Description>Plays in Wutai.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\utai\vgmstream\076 Wutai.ogg"/>
+  </ConfigOption>
+
+  <!--***WORLD MAP SECTION***-->
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>0</Default>
+    <ID>WorldMapHeader</ID>
+    <Name>===World Map===</Name>
+    <Description>World Map - Expand arrows on the left for track selection options.</Description>
+    <Option Value="0" Name=""/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggcinco</ID>
+    <Name>Cinco de Chocobo</Name>
+    <Description>Plays while riding a chocobo on the World Map and at Chocobo Sage's House.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\cinco\vgmstream\051 Cinco de Chocobo.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggta</ID>
+    <Name>Main Theme</Name>
+    <Description>First theme on the World Map.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\ta\vgmstream\013 Main Theme of Final Fantasy VII.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggtb</ID>
+    <Name>Main Theme (2nd Half)</Name>
+    <Description>First theme on the World Map.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\tb\vgmstream\014 Main Theme of Final Fantasy VII (Alternate).ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggsea</ID>
+    <Name>Secret of the Deep Sea</Name>
+    <Description>Plays on the submarine.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\sea\vgmstream\085 A Secret Sleeping in the Deep.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ogghiku</ID>
+    <Name>The Highwind Takes to the Skies</Name>
+    <Description>Plays during flights with the Highwind.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\hiku\vgmstream\047 Highwind of the Skies.ogg"/>
+  </ConfigOption>
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>oggkita</ID>
+    <Name>The North Cave</Name>
+    <Description>Plays as second theme on World Map and in the northern crater.</Description>
+    <Option Value="0" Name="No Change" PreviewFile="off.png"/>
+    <Option Value="1" Name="The Reunion PSXOST" PreviewFile="on.png" PreviewAudio="TR-PSXOST\kita\vgmstream\071 Great Crater of the North.ogg"/>
+  </ConfigOption>
+
+  <FFNxConfig>
+    <use_external_music>true</use_external_music>
+  </FFNxConfig>
+</ModInfo>
